@@ -3,7 +3,7 @@
 Run redis server using the following command-
 
 ```
-redis-server --port 3001
+redis-server
 ```
 
 Start nodejs server using-
