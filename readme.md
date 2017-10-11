@@ -20,7 +20,9 @@ php artisan serve
 
 # Usage Example
 
+```
 [host]:[port]/reserve/{customer_id}
 [host]:[port]/release/{customer_id}
 
 [host]:[port]/show
+```
